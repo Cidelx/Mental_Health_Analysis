@@ -64,7 +64,7 @@ The analysis involved cleaning and preprocessing the data to ensure accuracy. Va
 ### 5. Family History of Mental Illness
 - A family history of depression is a significant factor in the likelihood of developing mental health issues, although it is not determinative. Many individuals without a family history still experience mental health challenges, highlighting the multifactorial nature of mental health.
 
-![Family History of Depression Analysis]([file-wbABzkp7Iwr9wKUUGR1aRXhV.png](https://github.com/Cidelx/Mental_Health_Analysis/blob/main/Images/Family%20History%20of%20Mental%20Illness.png?raw=true))
+![Family History of Depression Analysis](https://github.com/Cidelx/Mental_Health_Analysis/blob/main/Images/Family%20History%20of%20Mental%20Illness.png?raw=true)
 
 ## Conclusions
 
