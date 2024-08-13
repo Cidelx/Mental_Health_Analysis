@@ -59,7 +59,7 @@ The analysis involved cleaning and preprocessing the data to ensure accuracy. Va
 ### 4. Smoking Status
 - Non-smokers have the highest incidence of mental illness, followed by former smokers. This may suggest that quitting smoking is associated with increased awareness of mental health issues, or that former smokers seek support after quitting.
 
-![Smoking Status Analysis](file-Images/Marital Status Analysis.png)
+![Smoking Status Analysis](Images/Marital Status Analysis.png)
 
 ### 5. Family History of Mental Illness
 - A family history of depression is a significant factor in the likelihood of developing mental health issues, although it is not determinative. Many individuals without a family history still experience mental health challenges, highlighting the multifactorial nature of mental health.
