@@ -44,7 +44,7 @@ The analysis involved cleaning and preprocessing the data to ensure accuracy. Va
 ### 1. Marital Status
 - Married individuals show the highest incidence of mental illness history, possibly due to the larger sample size or stressors associated with marriage. Single and widowed individuals also display significant counts, highlighting the potential impact of loneliness or loss on mental health.
 
-![Marital Status Analysis](file-NWS4p52WHijQceEsS92McgI1.png)
+![Marital Status Analysis](https://github.com/Cidelx/Mental_Health_Analysis/blob/main/Images/Marital%20Status%20Analysis.png?raw=true)
 
 ### 2. Employment Status and Physical Activity
 - Sedentary lifestyles are strongly associated with a higher incidence of mental illness, regardless of employment status. This underscores the importance of physical activity in maintaining mental health.
