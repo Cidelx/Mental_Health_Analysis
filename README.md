@@ -49,7 +49,7 @@ The analysis involved cleaning and preprocessing the data to ensure accuracy. Va
 ### 2. Employment Status and Physical Activity
 - Sedentary lifestyles are strongly associated with a higher incidence of mental illness, regardless of employment status. This underscores the importance of physical activity in maintaining mental health.
 
-![Employment and Physical Activity Analysis](file-wgACWJOPcy31vSGav39tcFMc.png)
+![Employment and Physical Activity Analysis](https://github.com/Cidelx/Mental_Health_Analysis/blob/main/Images/Employment%20Status%20and%20Physical%20Activity.png?raw=true)
 
 ### 3. Sleep Patterns and Dietary Habits
 - Poor sleep quality correlates with unhealthy dietary habits and a higher prevalence of mental illness. Even those with fair or good sleep patterns are more likely to have moderate or unhealthy diets, indicating a broader issue with sleep affecting overall health.
