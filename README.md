@@ -85,7 +85,7 @@ The analysis involved cleaning and preprocessing the data to ensure accuracy. Va
 
 For those interested in exploring further, additional resources are available:
 
-- **Data**: The complete dataset and any processed versions can be found in the [`data/`](https://github.com/your-username/your-repository-name/tree/main/data) directory.
+- **Data**: The complete dataset and any processed versions can be found in the [`data/`](https://github.com/Cidelx/Mental_Health_Analysis/blob/main/DepressionData.xlsx) directory.
 - **Figures**: All charts and visualizations used in this analysis, along with supplementary figures, are stored in the [`figures/`](https://github.com/your-username/your-repository-name/tree/main/figures) directory.
 - **Detailed Analysis**: In-depth statistical analysis and extended explanations are also available for review in the `detailed_analysis/` directory.
 
