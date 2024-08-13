@@ -54,7 +54,7 @@ The analysis involved cleaning and preprocessing the data to ensure accuracy. Va
 ### 3. Sleep Patterns and Dietary Habits
 - Poor sleep quality correlates with unhealthy dietary habits and a higher prevalence of mental illness. Even those with fair or good sleep patterns are more likely to have moderate or unhealthy diets, indicating a broader issue with sleep affecting overall health.
 
-![Sleep Patterns and Dietary Habits Analysis]([file-78pFByGxO6N5oIdThwVoCVSm.png](https://github.com/Cidelx/Mental_Health_Analysis/blob/main/Images/Sleep%20Patterns%20and%20Dietary%20Habits.png?raw=true))
+![Sleep Patterns and Dietary Habits Analysis](https://github.com/Cidelx/Mental_Health_Analysis/blob/main/Images/Sleep%20Patterns%20and%20Dietary%20Habits.png?raw=true)
 
 ### 4. Smoking Status
 - Non-smokers have the highest incidence of mental illness, followed by former smokers. This may suggest that quitting smoking is associated with increased awareness of mental health issues, or that former smokers seek support after quitting.
