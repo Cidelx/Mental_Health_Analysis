@@ -90,5 +90,7 @@ For those interested in exploring further, additional resources are available:
 
 ## References
 
-- Include any references or sources used in the analysis.
+1. Mental Health Foundation. "Factors that affect mental health." *Mental Health Foundation*. (n.d.). [https://www.mentalhealth.org.uk/explore-mental-health/factors-affect-mental-health](https://www.mentalhealth.org.uk/explore-mental-health/factors-affect-mental-health#:~:text=Biological%20factors%2C%20e.g.%20physical%20health,culture%2C%20work%2C%20money%2C%20housing).
+2. Therrien, Anthony. "Depression Dataset." *Kaggle*. [https://www.kaggle.com/datasets/anthonytherrien/depression-dataset](https://www.kaggle.com/datasets/anthonytherrien/depression-dataset)
+
 
